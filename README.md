@@ -24,3 +24,9 @@ MDS7202-1 - Otoño 2022
 
 ## Lab7: Aprendizaje Supervisado 🔮
 * [Notebook](https://github.com/furrutiav/lab-mds-2022/tree/main/lab7)
+
+## Lab8: ¿Superhéroe o Villano? 🦸
+* [Notebook](https://github.com/furrutiav/lab-mds-2022/tree/main/lab8)
+
+## Lab9: Benchmark Estadístico con Reddit 🧮
+* [Notebook](https://github.com/furrutiav/lab-mds-2022/tree/main/lab9)
